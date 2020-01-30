@@ -1,0 +1,19 @@
+D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe.config
+D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe
+D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\bin\Debug\adapter_design_pattern.pdb
+D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\obj\Debug\adapter_design_pattern.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\obj\Debug\adapter_design_pattern.exe
+D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\obj\Debug\adapter_design_pattern.pdb
+C:\Users\Burak\Desktop\Lab10-master\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe.config
+C:\Users\Burak\Desktop\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.exe
+C:\Users\Burak\Desktop\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.pdb
+C:\Users\Burak\Desktop\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Lab10-master\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe
+C:\Users\Burak\Desktop\Lab10-master\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.pdb
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe.config
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.pdb
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.csprojAssemblyReference.cache
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.csproj.CoreCompileInputs.cache
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.exe
+G:\Genel\Genel\Nesneye Yönelik\Lab10-master\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.pdb
